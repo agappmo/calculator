@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(183, 177, 111);
+    color: aliceblue;
+    text-align: center;
+    background-image: url(https://images.pexels.com/photos/168452/pexels-photo-168452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    
+    
+    border-style:cover;
+    height: 100vh;
+
+}
+h1{
+    font-size: 80px;
+    color: rgb(253, 253, 253);
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background: wheat;
+
+}
+.btn:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+
+.img{
+    width: 20px;
+    height: 20px;
+}
+
+button{
+    width: 200px;
+    height: 40px;
+    color: rgb(19, 12, 228);
+    background-color: rgb(233, 49, 49);
+    font-size: 25px;
+
+}
+input{
+    font-size: 20px;
+}
+p{
+    font-size: 50px;
+    color: rgb(238, 238, 238);
+    
+}
